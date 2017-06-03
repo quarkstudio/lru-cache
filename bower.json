@@ -1,0 +1,23 @@
+{
+  "name": "lru-cache",
+  "description": "lru-cache caching",
+  "main": "dist/lru-cache.js",
+  "authors": [
+    "Bill Gao <viruschidai@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "lru-cache",
+    "caching",
+    "node.js",
+    "frontend"
+  ],
+  "homepage": "https://github.com/quarkstudio/lru-cache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
